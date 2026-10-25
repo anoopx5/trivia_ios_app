@@ -73,7 +73,7 @@ const countries = <TravelCountry>[
       ),
       TravelPlace(
         id: 'fuji', name: 'Mount Fuji', location: 'Honshu',
-        image: 'https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1100&q=85',
+        image: 'https://images.unsplash.com/photo-1713018605257-a50e9231feef?w=1100&q=85',
         category: 'Nature',
         description: 'Japan’s iconic volcanic peak rises above lakes and mountain towns. On clear days, the views around the Fuji Five Lakes area are unforgettable.',
         bestTime: 'Nov–Feb for clear views', duration: '1–2 days',
@@ -122,7 +122,7 @@ const countries = <TravelCountry>[
       ),
       TravelPlace(
         id: 'montsaint', name: 'Mont Saint-Michel', location: 'Normandy',
-        image: 'https://images.unsplash.com/photo-1494526585095-c41746248156?w=1100&q=85',
+        image: 'https://images.unsplash.com/photo-1757874905949-8d3d5e67e9a4?w=1100&q=85',
         category: 'Heritage',
         description: 'A medieval abbey crowns a tidal island, connected to the mainland by a causeway. The changing tides transform the landscape throughout the day.',
         bestTime: 'Spring or autumn', duration: 'Half to full day',
@@ -257,7 +257,7 @@ const countries = <TravelCountry>[
     region: 'Central Europe',
     headline: 'The great Alpine escape',
     description: 'Discover dramatic mountains, clear lakes, postcard-perfect towns and some of Europe’s most scenic rail journeys.',
-    image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1100&q=85',
+    image: 'https://images.unsplash.com/photo-1590664216212-62e763768cae?w=1100&q=85',
     bestSeason: 'Jun–Sep · Dec–Mar',
     language: 'German, French, Italian, Romansh',
     currency: 'Swiss franc (CHF)',
@@ -273,7 +273,7 @@ const countries = <TravelCountry>[
       ),
       TravelPlace(
         id: 'lucerne', name: 'Lake Lucerne', location: 'Lucerne',
-        image: 'https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=1100&q=85',
+        image: 'https://www.lakelucerne.ch/fileadmin/_processed_/7/0/csm_Boat_Trip_Lake_Lucerne_c45e09434e.jpg',
         category: 'Lakeside',
         description: 'A beautiful lake framed by mountain ranges, historic waterside buildings and scenic boat routes.',
         bestTime: 'May–Sep', duration: 'Half to full day',
@@ -282,7 +282,7 @@ const countries = <TravelCountry>[
       ),
       TravelPlace(
         id: 'lauterbrunnen', name: 'Lauterbrunnen Valley', location: 'Bernese Oberland',
-        image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1100&q=85',
+        image: 'https://images.unsplash.com/photo-1590664216212-62e763768cae?w=1100&q=85',
         category: 'Nature',
         description: 'A deep green valley with steep rock walls, charming villages and waterfalls tumbling from high cliffs.',
         bestTime: 'May–Sep', duration: '1–2 days',
