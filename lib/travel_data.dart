@@ -257,7 +257,7 @@ const countries = <TravelCountry>[
     region: 'Central Europe',
     headline: 'The great Alpine escape',
     description: 'Discover dramatic mountains, clear lakes, postcard-perfect towns and some of Europe’s most scenic rail journeys.',
-    image: 'https://images.unsplash.com/photo-1590664216212-62e763768cae?w=1100&q=85',
+    image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1100&q=85',
     bestSeason: 'Jun–Sep · Dec–Mar',
     language: 'German, French, Italian, Romansh',
     currency: 'Swiss franc (CHF)',
