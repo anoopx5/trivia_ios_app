@@ -14,7 +14,7 @@ void main() {
   testWidgets('discovery screen and saved tab appear', (tester) async {
     await tester.pumpWidget(const TriviaTravelApp());
     expect(find.text('TRIVIA'), findsOneWidget);
-    expect(find.text('Explore countries'), findsOneWidget);
+    expect(find.textContaining('The world is'), findsOneWidget);
     expect(find.byIcon(Icons.search), findsOneWidget);
     expect(find.text('Saved'), findsOneWidget);
   });
